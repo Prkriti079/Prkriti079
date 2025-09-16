@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi 👋, I'm Prkriti  
+##  Hi 👋, I'm Prkriti  
 
 💻 Software Engineer (ex-HSBC) | Data Analyst (ex-Inferess) 
 🚀 Building scalable AI & Data solutions | Python • SQL • AWS • PyTorch • Streamlit  
