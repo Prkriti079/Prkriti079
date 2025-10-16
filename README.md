@@ -15,10 +15,10 @@ Driven by curiosity and continuous learning, I’m currently exploring how **AI,
 ---
 
 ## 🔧 Tech Stack  
-**Languages:** Python, Java, SQL, JavaScript  
-**Frameworks/Tools:** Spring Boot, Streamlit, Power BI, Tableau, TensorFlow, PyTorch  
-**Cloud Platforms:** AWS, GCP  
-**DevOps & Others:** Git, Docker, Kubernetes, Jenkins, VS Code 
+- **Languages:** Python, Java, SQL, JavaScript  
+- **Frameworks/Tools:** Spring Boot, Streamlit, Power BI, Tableau, TensorFlow, PyTorch  
+- **Cloud Platforms:** AWS, GCP  
+- **DevOps & Others:** Git, Docker, Kubernetes, Jenkins, VS Code 
 
 ---
 
