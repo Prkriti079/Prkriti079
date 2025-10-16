@@ -23,20 +23,12 @@ Driven by curiosity and continuous learning, I’m currently exploring how **AI,
 ---
 
 ## 📂 Featured Projects  
-- BetterCNN for Image Classification  
-- AWS Athena Data Pipeline  
-- Streamlit Business Dashboard  
-- TQM Quality Analysis Toolkit  
-- Trade Data Exploration (OEC)
-
-- ### 🚀 Featured Projects
 - [Credit Card Score Classification (Deep Learning)](https://github.com/Prkriti079/credit-score-classification)
 - [Analyzing Real Estate Trends (Database Systems)](https://github.com/Prkriti079/real-estate-trends)
 - [Pizza Sales Data Analysis (Power BI)](https://github.com/Prkriti079/pizza-sales-analysis)
 - [Stock Market Real-Time Data Analysis using Kafka](https://github.com/Prkriti079/stock-market-kafka)
 - [Online Auction System – Full-Stack Project](https://github.com/Prkriti079/online-auction-system)
 - [BuddyBoost – Motivational Web App (In Progress)](https://github.com/Prkriti079/buddyboost)
-
 
 ---
 
