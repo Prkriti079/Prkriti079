@@ -25,7 +25,7 @@ Driven by curiosity and continuous learning, I’m currently exploring how **AI,
 ## 📂 Featured Projects  
 - [Credit Card Score Classification (Deep Learning)](https://github.com/Prkriti079/credit-score-classification)
 - [Mindcare Virtual Psychological Assistant](https://github.com/Prkriti079/mindcare-virtual-psychological-assistant)
-- [Analyzing Real Estate Trends (Database Systems)](https://github.com/Prkriti079/real-estate-trends)
+- [Analyzing Real Estate Trends (Database Systems)](https://github.com/Prkriti079/Analyzing-Real-Estate-Trends)
 - [Pizza Sales Data Analysis (Power BI)](https://github.com/Prkriti079/pizza-sales-analysis)
 - [Stock Market Real-Time Data Analysis using Kafka](https://github.com/Prkriti079/stock-market-kafka)
 - [Online Auction System – Full-Stack Project](https://github.com/Prkriti079/online-auction-system)
